@@ -24,8 +24,8 @@
                             <button type="submit" class="btn btn-warning">
                                 💾 Guardar cambios
                             </button>
-                            <a href="{% url 'detalle_post' post.pk %}" class="btn btn-secondary">
-                                ❌ Cancelar
+<a href="{% url 'blog:detalle_post' post.slug %}" class="btn btn-secondary">
+                                    ❌ Cancelar
                             </a>
                         </div>
                     </form>
