@@ -40,3 +40,8 @@ URL: /post/<id>/eliminar/
 ✅ Paso 7 - Buscar Posts
 URL: /buscar/
 Filtra por título, autor o categoría
+## 🎥 Video demostración
+[Ver video aquí](https://www.loom.com/share/b7a8f9ea795c47a588badb6dc459a039)
+
+## 🎥 Video demostración
+[Ver video aquí](https://www.loom.com/share/b7a8f9ea795c47a588badb6dc459a039)
